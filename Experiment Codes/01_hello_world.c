@@ -1,4 +1,4 @@
-// By Shorya
+// By Vedans
 #include <stdio.h>
 
 int main() {
